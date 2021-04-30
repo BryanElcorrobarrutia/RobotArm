@@ -1,5 +1,13 @@
 # RobotArm
 DIY 3-Axis Serial Robot Arm with 3D printed parts. 
+
+
+## Components
+  Arduino Uno.
+  3 SG90 servo motors. 
+  M2 and M3 nuts and bolts. 
+  M2 screws. 
+
 ## Resources
 <ul>
   <li>Modern Robotics: Mechanics, Planning, and Control
